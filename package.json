@@ -1,0 +1,17 @@
+{
+  "name": "counterapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "undercover",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "vazir-font": "^20.1.0"
+  }
+}
